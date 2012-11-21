@@ -78,3 +78,8 @@
 
 ## Любимая OS
 * Linux
+
+#Feedback
+1. Fork
+1. Introduce Yourself
+1. Pull
